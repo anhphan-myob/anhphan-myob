@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @anhphan-myob
 - 👀 I’m interested in the art of software engineering
-- 🌱 I’m currently learning communication skills
 - 💞️ I’m looking to collaborate on some crafsmanship project
 - 😄 Pronouns: He/him
 
